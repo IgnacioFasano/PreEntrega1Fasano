@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "phone_factory": "Motorola",
+        "phone_model": "Razr 40 Ultra",
+        "phone_year": 2023,
+        "color": "Viva Magenta",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/motorola-razr-40-ultra.jpg"
+    },
+    {
+        "id": 2,
+        "phone_factory": "Samsung",
+        "phone_model": "Galaxy A24",
+        "phone_year": 2022,
+        "color": "Lima",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/samsung-galaxy-a24.jpg"
+    },
+    {
+        "id": 3,
+        "phone_factory": "Xiaomi",
+        "phone_model": "Redmi Note 12S",
+        "phone_year": 2023,
+        "color": "Verde",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/xiaomi-redmi-note-12s.jpg"
+    },
+    {
+        "id": 4,
+        "phone_factory": "LG",
+        "phone_model": "One plus",
+        "phone_year": 2019,
+        "color": "white",
+        "category":"celular","img": "url"
+    },
+    {
+        "id": 5,
+        "phone_factory": "Apple",
+        "phone_model": "iPhone 14 Pro",
+        "phone_year": 2022,
+        "color": "Blanco",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/apple-iphone-14-pro.jpg"
+    },
+    {
+        "id": 6,
+        "phone_factory": "Huawei",
+        "phone_model": "Nova 11",
+        "phone_year": 2023,
+        "color": "Negro",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/huawei-nova-11.jpg"
+    },
+    {
+        "id": 7,
+        "phone_factory": "Apple",
+        "phone_model": "Iphone 12",
+        "phone_year": 2020,
+        "color": "Verde",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/apple-iphone-12.jpg"
+    },
+    {
+        "id": 8,
+        "phone_factory": "Motorola",
+        "phone_model": "One plus",
+        "phone_year": 2019,
+        "color": "white",
+        "category":"celular","img": "url"
+    },
+    {
+        "id": 9,
+        "phone_factory": "Xiaomi",
+        "phone_model": "Moto G9 Play",
+        "phone_year": 2020,
+        "color": "Verde",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/motorola-moto-g9-play.jpg"
+    },
+    {
+        "id": 10,
+        "phone_factory": "Samsung",
+        "phone_model": "Galaxy F14 5G",
+        "phone_year": 2023,
+        "color": "Purpura",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/samsung-galaxy-f14-5g.jpg"
+    },
+    {
+        "id": 11,
+        "phone_factory": "Oneplus",
+        "phone_model": "Nord N300 5G",
+        "phone_year": 2022,
+        "color": "Negro",
+        "category":"celular","img": "https://cdn.smart-gsm.com/img/picture/oneplus-nord-n300-5g.jpg"
+    }
+
+
+
+
+
+]
